@@ -1,2 +1,7 @@
 Esta es la rama de divisiomes
+<<<<<<< HEAD
 hola
+||||||| 6ffe77c
+=======
+parte 2
+>>>>>>> divisiomes
